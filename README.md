@@ -75,7 +75,7 @@ unsafe {
 
 ## 🔧 Full-Spectrum Toolbox
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,python,java,go,scala,swift,kotlin,js,ts,react,angular,vue,nodejs,nextjs,spring,django,flask,rails,qt,wasm,graphql,solidity,mongodb,postgres,mysql,redis,sqlite,docker,kubernetes,aws,gcp,azure,githubactions,jenkins,terraform,ansible,nginx,linux,bash,powershell,git,neovim,vscode,atom,idea,figma,unity,unreal,blender,arduino,raspberrypi)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,python,java,go,scala,swift,kotlin,js,ts,react,nodejs,nextjs,spring,django,flask,rails,graphql,mongodb,postgres,redis)](https://skillicons.dev)
 
 
 ## 📡 Open Channels
