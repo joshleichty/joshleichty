@@ -6,7 +6,7 @@ function currentStatus() {
     exploring: "Always something new",
     building: "Side projects in various stages of completion",
     learning: "Whatever catches my interest this week",
-    playing: ["Fighting games", "BJJ", "With hardware"]
+    playing: ["Fighting games", "BJJ"]
   };
 }
 ```
