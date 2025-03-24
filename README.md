@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Josh 
 
 **Low-level enthusiast | Full-stack tinkerer | Problem dissector**
