@@ -72,6 +72,7 @@ unsafe {
 ```
 
 **Toolchain Essentials**
+
 [![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,python,react,java,js,ts,wasm,neovim,git,linux,vim)](https://skillicons.dev)
 
 
@@ -90,9 +91,4 @@ architecture behavioral of collaboration is
 begin
     coffee <= '1' when (embedded_rust or game_netcode or kernel_hacks) else '0';
 end behavioral;
-```
-
-📫 **Best contact vectors**: 
-[![Email](https://img.shields.io/badge/Email-Leak%20Some%20Bytes-blue?style=flat-square&logo=protonmail)](mailto:leichty.joshua@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Armbar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joshualeichty)
 ```
