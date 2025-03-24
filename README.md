@@ -1,6 +1,6 @@
 # Hey, I'm Josh 👋
 
-```
+```javascript
 function currentStatus() {
   return {
     exploring: "Always something new",
