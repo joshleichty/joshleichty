@@ -73,7 +73,9 @@ unsafe {
 
 **Toolchain Essentials**
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,python,react,java,js,ts,wasm,neovim,git,linux,vim)](https://skillicons.dev)
+## 🔧 Full-Spectrum Toolbox
+
+[![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,python,java,go,scala,swift,kotlin,js,ts,react,angular,vue,nodejs,nextjs,spring,django,flask,rails,qt,wasm,graphql,solidity,mongodb,postgres,mysql,redis,sqlite,docker,kubernetes,aws,gcp,azure,githubactions,jenkins,terraform,ansible,nginx,linux,bash,powershell,git,neovim,vscode,atom,idea,figma,unity,unreal,blender,arduino,raspberrypi)](https://skillicons.dev)
 
 
 ## 📡 Open Channels
